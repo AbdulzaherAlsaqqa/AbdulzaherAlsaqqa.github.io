@@ -27,7 +27,7 @@
         </tr>
     <?php }?> 
     </table>
-    <!-- <ul>
+<!-- <ul>
         <li><?= $user['username']; ?></li>
         <li><?= $user['password']; ?></li>
         <li><?= $user['role']=== 0 ?"normal":"Admin"; ?></li>
